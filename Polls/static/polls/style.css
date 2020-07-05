@@ -1,0 +1,12 @@
+li a{
+color:white;
+}
+
+li a:hover{
+color: pink;
+}
+
+body{
+background: linear-gradient(to right, #485563, #29323c);
+}
+
